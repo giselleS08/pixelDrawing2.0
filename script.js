@@ -67,9 +67,7 @@ function setup() {
   pixel5.color = "black";
 
   pixel6 = new Sprite(10,10,19,19);
-  pixel6.rotation =0;
-  pixel6.collider = "kinematic";
-  pixel6.color = "black";
+  creatingPixels(pixel6);
 }
 
 
@@ -80,4 +78,11 @@ pixel3.pos={x:120+(2*19), y: 121};
 pixel4.pos={x:120+(3*19), y: 121};
 pixel5.pos={x:120+(4*19), y: 121};
 pixel6.pos={x:120+(5*19), y: 121};
+}
+
+function creatingPixels(sprite)
+{
+  sprite.rotation =0;
+  sprite.collider = "kinematic";
+  sprite.color = "black";
 }
