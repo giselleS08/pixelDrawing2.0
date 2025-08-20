@@ -131,8 +131,6 @@ function setup() {
   pixel30 = new Sprite(10,10,19,19);
   creatingPixels(pixel30);
 
-  pixel31 = new Sprite(10,10,19,19);
-  creatingPixels(pixel31);
 
   
 
@@ -142,37 +140,40 @@ function setup() {
 function draw() {
 
   //row1////////////////
-row1pos(pixel1, 1);
-row1pos(pixel2, 2);
-row1pos(pixel3, 3);
-row1pos(pixel4, 4);
-row1pos(pixel5, 5);
-row1pos(pixel6, 6);
-row1pos(pixel7, 7);
-row1pos(pixel8, 8);
-row1pos(pixel9, 9);
-row1pos(pixel10, 10);
-row1pos(pixel11, 11);
-row1pos(pixel12, 12);
-row1pos(pixel13, 13);
-row1pos(pixel14, 14);
-row1pos(pixel15, 15);
-row1pos(pixel16, 16);
-row1pos(pixel17, 17);
-row1pos(pixel18, 18);
-row1pos(pixel19, 19);
-row1pos(pixel20, 20);
-row1pos(pixel21, 21);
-row1pos(pixel22, 22);
-row1pos(pixel23, 23);
-row1pos(pixel24, 24);
-row1pos(pixel25, 25);
-row1pos(pixel26, 26);
-row1pos(pixel27, 27);
-row1pos(pixel28, 28);
-row1pos(pixel29, 29);
-row1pos(pixel30, 30);
-////////////////////////
+Position(pixel1, 1, 1);
+Position(pixel2, 2, 1);
+Position(pixel3, 3, 1);
+Position(pixel4, 4, 1);
+Position(pixel5, 5, 1);
+Position(pixel6, 6, 1);
+Position(pixel7, 7, 1);
+Position(pixel8, 8, 1);
+Position(pixel9, 9, 1);
+Position(pixel10, 10, 1);
+Position(pixel11, 11, 1);
+Position(pixel12, 12, 1);
+Position(pixel13, 13, 1);
+Position(pixel14, 14, 1);
+Position(pixel15, 15, 1);
+Position(pixel16, 16, 1);
+Position(pixel17, 17, 1);
+Position(pixel18, 18, 1);
+Position(pixel19, 19, 1);
+Position(pixel20, 20, 1);
+Position(pixel21, 21, 1);
+Position(pixel22, 22, 1);
+Position(pixel23, 23, 1);
+Position(pixel24, 24, 1);
+Position(pixel25, 25, 1);
+Position(pixel26, 26, 1);
+Position(pixel27, 27, 1);
+Position(pixel28, 28, 1);
+Position(pixel29, 29, 1);
+Position(pixel30, 30, 1);
+//////////////////////////
+//row2
+
+
 }
 
 function creatingPixels(sprite)
@@ -181,7 +182,7 @@ function creatingPixels(sprite)
   sprite.collider = "kinematic";
   sprite.color = "yellow";
 }
-function row1pos(sprite, numPos)
+function Position(sprite, numPos, rowPos)
 {
-  sprite.pos={x:100+((numPos - 1 )*19), y: 121};
+  sprite.pos={x:120+((numPos - 1 )*19), y: 121+((rowPos-1)*19)};
 }
