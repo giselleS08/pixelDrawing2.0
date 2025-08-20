@@ -39,13 +39,45 @@ function setup() {
        startButton.pos={x:375, y: 300};
         startButton.rotation =0;
         startButton.collider = "kinematic";
-  pixelx1y1 = new Sprite(10,10,19,19);
-  pixelx1y1.rotation =0;
-  pixelx1y1.collider = "kinematic";
-  pixelx1y1.color = "black";
+
+  //1st row
+  pixel1 = new Sprite(10,10,19,19);
+  pixel1.rotation =0;
+  pixel1.collider = "kinematic";
+  pixel1.color = "black";
+
+  pixel2 = new Sprite(10,10,19,19);
+  pixel2.rotation =0;
+  pixel2.collider = "kinematic";
+  pixel2.color = "black";
+
+  pixel3 = new Sprite(10,10,19,19);
+  pixel3.rotation =0;
+  pixel3.collider = "kinematic";
+  pixel3.color = "black";
+
+  pixel4 = new Sprite(10,10,19,19);
+  pixel4.rotation =0;
+  pixel4.collider = "kinematic";
+  pixel4.color = "black";
+
+  pixel5 = new Sprite(10,10,19,19);
+  pixel5.rotation =0;
+  pixel5.collider = "kinematic";
+  pixel5.color = "black";
+
+  pixel6 = new Sprite(10,10,19,19);
+  pixel6.rotation =0;
+  pixel6.collider = "kinematic";
+  pixel6.color = "black";
 }
 
 
 function draw() {
-pixelx1y1.pos={x:120, y: 121};
+pixel1.pos={x:120, y: 121};
+pixel2.pos={x:120+19, y: 121};
+pixel3.pos={x:120+2(19), y: 121};
+pixel4.pos={x:120+3(19), y: 121};
+pixel5.pos={x:120+4(19), y: 121};
+pixel6.pos={x:120+5(19), y: 121};
 }
