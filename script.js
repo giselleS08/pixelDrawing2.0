@@ -130,7 +130,7 @@ function setup() {
 
   pixel30 = new Sprite(10,10,19,19);
   creatingPixels(pixel30);
-  pixel30.color = "red";
+  pixel30.color = "yellow";
 
   pixel31 = new Sprite(10,10,19,19);
   creatingPixels(pixel31);
