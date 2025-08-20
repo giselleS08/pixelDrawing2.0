@@ -170,8 +170,6 @@ row1pos(pixel27, 27);
 row1pos(pixel28, 28);
 row1pos(pixel29, 29);
 row1pos(pixel30, 30);
-row1pos(pixel31, 31);
-row1pos(pixel30, 30);
 }
 
 function creatingPixels(sprite)
