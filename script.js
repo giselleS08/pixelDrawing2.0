@@ -76,22 +76,47 @@ function setup() {
 
   pixel12 = new Sprite(10,10,19,19);
   creatingPixels(pixel12);
+
+  pixel13 = new Sprite(10,10,19,19);
+  creatingPixels(pixel13);
+
+  pixel14 = new Sprite(10,10,19,19);
+  creatingPixels(pixel14);
+
+  pixel15 = new Sprite(10,10,19,19);
+  creatingPixels(pixel15);
+
+  pixel16 = new Sprite(10,10,19,19);
+  creatingPixels(pixel16);
+
+  pixel17 = new Sprite(10,10,19,19);
+  creatingPixels(pixel17);
+
+  pixel18 = new Sprite(10,10,19,19);
+  creatingPixels(pixel18);
+
+  pixel19 = new Sprite(10,10,19,19);
+  creatingPixels(pixel19);
+
+  pixel20 = new Sprite(10,10,19,19);
+  creatingPixels(pixel20);
+
+  pixel21 = new Sprite(10,10,19,19);
+  creatingPixels(pixel21);
+
+  pixel22 = new Sprite(10,10,19,19);
+  creatingPixels(pixel22);
+
+  pixel23 = new Sprite(10,10,19,19);
+  creatingPixels(pixel23);
+
+  pixel24 = new Sprite(10,10,19,19);
+  creatingPixels(pixel24);
 }
 
 
 function draw() {
-pixel1.pos={x:120, y: 121};
-pixel2.pos={x:120+19, y: 121};
-pixel3.pos={x:120+(2*19), y: 121};
-pixel4.pos={x:120+(3*19), y: 121};
-pixel5.pos={x:120+(4*19), y: 121};
-pixel6.pos={x:120+(5*19), y: 121};
-pixel7.pos={x:120+(6*19), y: 121};
-pixel8.pos={x:120+(7*19), y: 121};
-pixel9.pos={x:120+(8*19), y: 121};
-pixel10.pos={x:120+(9*19), y: 121};
-pixel11.pos={x:120+(10*19), y: 121};
-pixel12.pos={x:120+(11*19), y: 121};
+row1pos(pixel1, 1);
 }
 
 function creatingPixels(sprite)
@@ -99,4 +124,8 @@ function creatingPixels(sprite)
   sprite.rotation =0;
   sprite.collider = "kinematic";
   sprite.color = "black";
+}
+function row1pos(sprite, numPos)
+{
+  sprite.pos={x:120+((numPos - 1 )*19), y: 121};
 }
