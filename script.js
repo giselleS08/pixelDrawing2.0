@@ -112,6 +112,28 @@ function setup() {
 
   pixel24 = new Sprite(10,10,19,19);
   creatingPixels(pixel24);
+
+  pixel25 = new Sprite(10,10,19,19);
+  creatingPixels(pixel25);
+
+  pixel26 = new Sprite(10,10,19,19);
+  creatingPixels(pixel26);
+
+  pixel27 = new Sprite(10,10,19,19);
+  creatingPixels(pixel27);
+
+  pixel28 = new Sprite(10,10,19,19);
+  creatingPixels(pixel28);
+
+  pixel29 = new Sprite(10,10,19,19);
+  creatingPixels(pixel29);
+
+  pixel30 = new Sprite(10,10,19,19);
+  creatingPixels(pixel30);
+
+  pixel31 = new Sprite(10,10,19,19);
+  creatingPixels(pixel31);
+
 }
 
 
@@ -140,6 +162,13 @@ row1pos(pixel21, 21);
 row1pos(pixel22, 22);
 row1pos(pixel23, 23);
 row1pos(pixel24, 24);
+row1pos(pixel25, 25);
+row1pos(pixel26, 26);
+row1pos(pixel27, 27);
+row1pos(pixel28, 28);
+row1pos(pixel29, 29);
+row1pos(pixel30, 30);
+row1pos(pixel31, 31);
 }
 
 function creatingPixels(sprite)
