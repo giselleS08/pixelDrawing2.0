@@ -39,13 +39,13 @@ function setup() {
        startButton.pos={x:375, y: 300};
         startButton.rotation =0;
         startButton.collider = "kinematic";
-  buttonx1y1 = new Sprite(10,10,19,19);
-  buttonx1y1.rotation =0;
-  buttonx1y1.collider = "kinematic";
-  buttonx1y1.color = "black";
+  pixelx1y1 = new Sprite(10,10,19,19);
+  pixelx1y1.rotation =0;
+  pixelx1y1.collider = "kinematic";
+  pixelx1y1.color = "black";
 }
 
 
 function draw() {
-
+pixelx1y1.pos={x:20, y: 20};
 }
