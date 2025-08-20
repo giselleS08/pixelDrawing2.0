@@ -135,6 +135,9 @@ function setup() {
   pixel31 = new Sprite(10,10,19,19);
   creatingPixels(pixel31);
 
+  
+  pixel30.color = "yellow";
+
 }
 
 
