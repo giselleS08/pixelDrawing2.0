@@ -76,8 +76,8 @@ function setup() {
 function draw() {
 pixel1.pos={x:120, y: 121};
 pixel2.pos={x:120+19, y: 121};
-pixel3.pos={x:120+2(19), y: 121};
-pixel4.pos={x:120+3(19), y: 121};
-pixel5.pos={x:120+4(19), y: 121};
-pixel6.pos={x:120+5(19), y: 121};
+pixel3.pos={x:120+(2*19), y: 121};
+pixel4.pos={x:120+(3*19), y: 121};
+pixel5.pos={x:120+(4*19), y: 121};
+pixel6.pos={x:120+(5*19), y: 121};
 }
