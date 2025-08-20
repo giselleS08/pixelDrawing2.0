@@ -117,6 +117,29 @@ function setup() {
 
 function draw() {
 row1pos(pixel1, 1);
+row1pos(pixel2, 2);
+row1pos(pixel3, 3);
+row1pos(pixel4, 4);
+row1pos(pixel5, 5);
+row1pos(pixel6, 6);
+row1pos(pixel7, 7);
+row1pos(pixel8, 8);
+row1pos(pixel9, 9);
+row1pos(pixel10, 10);
+row1pos(pixel11, 11);
+row1pos(pixel12, 12);
+row1pos(pixel13, 13);
+row1pos(pixel14, 14);
+row1pos(pixel15, 15);
+row1pos(pixel16, 16);
+row1pos(pixel17, 17);
+row1pos(pixel18, 18);
+row1pos(pixel19, 19);
+row1pos(pixel20, 20);
+row1pos(pixel21, 21);
+row1pos(pixel22, 22);
+row1pos(pixel23, 23);
+row1pos(pixel24, 24);
 }
 
 function creatingPixels(sprite)
