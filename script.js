@@ -130,13 +130,11 @@ function setup() {
 
   pixel30 = new Sprite(10,10,19,19);
   creatingPixels(pixel30);
-  pixel30.color = "yellow";
 
   pixel31 = new Sprite(10,10,19,19);
   creatingPixels(pixel31);
 
   
-  pixel30.color = "yellow";
 
 }
 
@@ -180,7 +178,7 @@ function creatingPixels(sprite)
 {
   sprite.rotation =0;
   sprite.collider = "kinematic";
-  sprite.color = "black";
+  sprite.color = "yellow";
 }
 function row1pos(sprite, numPos)
 {
