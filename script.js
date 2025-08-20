@@ -47,5 +47,5 @@ function setup() {
 
 
 function draw() {
-pixelx1y1.pos={x:30, y: 30};
+pixelx1y1.pos={x:100, y: 100};
 }
