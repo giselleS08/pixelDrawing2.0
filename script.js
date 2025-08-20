@@ -132,7 +132,96 @@ function setup() {
   creatingPixels(pixel30);
 
 
-  
+    //2st row
+  pixel41 = new Sprite(10,10,19,19);
+  creatingPixels(pixel41);
+
+  pixel42 = new Sprite(10,10,19,19);
+  creatingPixels(pixel42);
+
+  pixel43 = new Sprite(10,10,19,19);
+  creatingPixels(pixel43);
+
+  pixel44 = new Sprite(10,10,19,19);
+  creatingPixels(pixel44);
+
+  pixel45 = new Sprite(10,10,19,19);
+  creatingPixels(pixel45);
+
+  pixel46 = new Sprite(10,10,19,19);
+  creatingPixels(pixel46);
+
+  pixel47 = new Sprite(10,10,19,19);
+  creatingPixels(pixel47);
+
+  pixel48 = new Sprite(10,10,19,19);
+  creatingPixels(pixel48);
+
+  pixel49 = new Sprite(10,10,19,19);
+  creatingPixels(pixel49);
+
+  pixel50 = new Sprite(10,10,19,19);
+  creatingPixels(pixel50);
+
+  pixel51 = new Sprite(10,10,19,19);
+  creatingPixels(pixel51);
+
+  pixel52 = new Sprite(10,10,19,19);
+  creatingPixels(pixel52);
+
+  pixel53 = new Sprite(10,10,19,19);
+  creatingPixels(pixel53);
+
+  pixel54 = new Sprite(10,10,19,19);
+  creatingPixels(pixel54);
+
+  pixel55 = new Sprite(10,10,19,19);
+  creatingPixels(pixel55);
+
+  pixel56 = new Sprite(10,10,19,19);
+  creatingPixels(pixel56);
+
+  pixel57 = new Sprite(10,10,19,19);
+  creatingPixels(pixel57);
+
+  pixel58 = new Sprite(10,10,19,19);
+  creatingPixels(pixel58);
+
+  pixel59 = new Sprite(10,10,19,19);
+  creatingPixels(pixel59);
+
+  pixel60 = new Sprite(10,10,19,19);
+  creatingPixels(pixel60);
+
+  pixel31 = new Sprite(10,10,19,19);
+  creatingPixels(pixel31);
+
+  pixel32 = new Sprite(10,10,19,19);
+  creatingPixels(pixel32);
+
+  pixel33 = new Sprite(10,10,19,19);
+  creatingPixels(pixel33);
+
+  pixel34 = new Sprite(10,10,19,19);
+  creatingPixels(pixel34);
+
+  pixel35 = new Sprite(10,10,19,19);
+  creatingPixels(pixel35);
+
+  pixel36 = new Sprite(10,10,19,19);
+  creatingPixels(pixel36);
+
+  pixel37 = new Sprite(10,10,19,19);
+  creatingPixels(pixel37);
+
+  pixel38 = new Sprite(10,10,19,19);
+  creatingPixels(pixel38);
+
+  pixel39 = new Sprite(10,10,19,19);
+  creatingPixels(pixel39);
+
+  pixel40 = new Sprite(10,10,19,19);
+  creatingPixels(pixel40);
 
 }
 
@@ -172,7 +261,36 @@ Position(pixel29, 29, 1);
 Position(pixel30, 30, 1);
 //////////////////////////
 //row2
-
+Position(pixel31, 1, 2);
+Position(pixel32, 2, 2);
+Position(pixel33, 3, 2);
+Position(pixel34, 4, 2);
+Position(pixel35, 5, 2);
+Position(pixel36, 6, 2);
+Position(pixel37, 7, 2);
+Position(pixel38, 8, 2);
+Position(pixel39, 9, 2);
+Position(pixel40, 10, 2);
+Position(pixel41, 11, 2);
+Position(pixel42, 12, 2);
+Position(pixel43, 13, 2);
+Position(pixel44, 14, 2);
+Position(pixel45, 15, 2);
+Position(pixel46, 16, 2);
+Position(pixel47, 17, 2);
+Position(pixel48, 18, 2);
+Position(pixel49, 19, 2);
+Position(pixel50, 20, 2);
+Position(pixel51, 21, 2);
+Position(pixel52, 22, 2);
+Position(pixel53, 23, 2);
+Position(pixel54, 24, 2);
+Position(pixel55, 25, 2);
+Position(pixel56, 26, 2);
+Position(pixel57, 27, 2);
+Position(pixel58, 28, 2);
+Position(pixel59, 29, 2);
+Position(pixel60, 30, 2);
 
 }
 
