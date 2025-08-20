@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(800, 800);
-  background(255);
+  background(100);
 
 
   let findingPixelText = `
@@ -140,6 +140,8 @@ function setup() {
 
 
 function draw() {
+
+  //row1////////////////
 row1pos(pixel1, 1);
 row1pos(pixel2, 2);
 row1pos(pixel3, 3);
@@ -170,6 +172,7 @@ row1pos(pixel27, 27);
 row1pos(pixel28, 28);
 row1pos(pixel29, 29);
 row1pos(pixel30, 30);
+////////////////////////
 }
 
 function creatingPixels(sprite)
