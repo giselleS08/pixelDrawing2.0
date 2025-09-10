@@ -972,7 +972,7 @@ function setup() {
   creatingPixels(pixel305);
 
   pixel306 = new Sprite(10,10,19,19);
-  creatingPixels(pixepixel306l126);
+  creatingPixels(pixel306);
 
   pixel307 = new Sprite(10,10,19,19);
   creatingPixels(pixel307);
