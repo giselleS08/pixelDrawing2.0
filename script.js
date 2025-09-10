@@ -2532,5 +2532,5 @@ function creatingPixels(sprite)
 }
 function Position(sprite, numPos, rowPos)
 {
-  sprite.pos={x:100+((numPos - 1 )*19), y: 121+((rowPos-1)*19)};
+  sprite.pos={x:100+((numPos - 1 )*17), y: 121+((rowPos-1)*17)};
 }
