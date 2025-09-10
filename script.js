@@ -2527,6 +2527,8 @@ function creatingPixels(sprite)
   sprite.rotation =0;
   sprite.collider = "kinematic";
   sprite.color = "yellow";
+  sprite.width = 19;
+  sprite.height = 19;
 }
 function Position(sprite, numPos, rowPos)
 {
