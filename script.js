@@ -2490,36 +2490,36 @@ Position(pixel570, 30, 5+x);
 
 ////////////r0w 20/////////////////////////////////
 x = 15
-Position(pixel121, 1, 5+x);
-Position(pixel122, 2, 5+x);
-Position(pixel123, 3, 5+x);
-Position(pixel124, 4, 5+x);
-Position(pixel125, 5, 5+x);
-Position(pixel126, 6, 5+x);
-Position(pixel127, 7, 5+x);
-Position(pixel128, 8, 5+x);
-Position(pixel129, 9, 5+x);
-Position(pixel130, 10, 5+x);
-Position(pixel131, 11, 5+x);
-Position(pixel132, 12, 5+x);
-Position(pixel133, 13, 5+x);
-Position(pixel134, 14, 5+x);
-Position(pixel135, 15, 5+x);
-Position(pixel136, 16, 5+x);
-Position(pixel137, 17, 5+x);
-Position(pixel138, 18, 5+x);
-Position(pixel139, 19, 5+x);
-Position(pixel140, 20, 5+x);
-Position(pixel141, 21, 5+x);
-Position(pixel142, 22, 5+x);
-Position(pixel143, 23, 5+x);
-Position(pixel144, 24, 5+x);
-Position(pixel145, 25, 5+x);
-Position(pixel146, 26, 5+x);
-Position(pixel147, 27, 5+x);
-Position(pixel148, 28, 5+x);
-Position(pixel149, 29, 5+x);
-Position(pixel150, 30, 5+x);
+Position(pixel571, 1, 5+x);
+Position(pixel572, 2, 5+x);
+Position(pixel573, 3, 5+x);
+Position(pixel574, 4, 5+x);
+Position(pixel575, 5, 5+x);
+Position(pixel576, 6, 5+x);
+Position(pixel577, 7, 5+x);
+Position(pixel578, 8, 5+x);
+Position(pixel579, 9, 5+x);
+Position(pixel580, 10, 5+x);
+Position(pixel581, 11, 5+x);
+Position(pixel582, 12, 5+x);
+Position(pixel583, 13, 5+x);
+Position(pixel584, 14, 5+x);
+Position(pixel585, 15, 5+x);
+Position(pixel586, 16, 5+x);
+Position(pixel587, 17, 5+x);
+Position(pixel588, 18, 5+x);
+Position(pixel589, 19, 5+x);
+Position(pixel590, 20, 5+x);
+Position(pixel591, 21, 5+x);
+Position(pixel592, 22, 5+x);
+Position(pixel593, 23, 5+x);
+Position(pixel594, 24, 5+x);
+Position(pixel595, 25, 5+x);
+Position(pixel596, 26, 5+x);
+Position(pixel597, 27, 5+x);
+Position(pixel598, 28, 5+x);
+Position(pixel599, 29, 5+x);
+Position(pixel600, 30, 5+x);
 }
 
 function creatingPixels(sprite)
