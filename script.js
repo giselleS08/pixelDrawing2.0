@@ -2527,10 +2527,10 @@ function creatingPixels(sprite)
   sprite.rotation =0;
   sprite.collider = "kinematic";
   sprite.color = "yellow";
-  sprite.width = 19;
-  sprite.height = 19;
+  sprite.width = 17;
+  sprite.height = 17;
 }
 function Position(sprite, numPos, rowPos)
 {
-  sprite.pos={x:120+((numPos - 1 )*19), y: 121+((rowPos-1)*19)};
+  sprite.pos={x:100+((numPos - 1 )*19), y: 121+((rowPos-1)*19)};
 }
