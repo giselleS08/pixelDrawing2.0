@@ -841,7 +841,7 @@ function setup() {
   creatingPixels(pixel262);
 
   pixel263 = new Sprite(10,10,19,19);
-  creatingPixels(pixel143);
+  creatingPixels(pixel263);
 
   pixel264 = new Sprite(10,10,19,19);
   creatingPixels(pixel264);
