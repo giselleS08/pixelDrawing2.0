@@ -2522,7 +2522,7 @@ Position(pixel599, 29, 5+x);
 Position(pixel600, 30, 5+x);
 
 x=21
-//row1////////////////
+//row21////////////////
 Position(pixel601, 1, x);
 Position(pixel602, 2, x);
 Position(pixel603, 3, x);
@@ -2554,8 +2554,8 @@ Position(pixel628, 28, x);
 Position(pixel629, 29, x);
 Position(pixel630, 30, x);
 //////////////////////////
-//row2
-
+//row22
+x = 20
 Position(pixel631, 1, x+2);
 Position(pixel632, 2, x+2);
 Position(pixel633, 3, x+2);
@@ -2588,37 +2588,37 @@ Position(pixel659, 29, x+2);
 Position(pixel660, 30, x+2);
 
 
-//row 3////////////////////////////////////////
-Position(pixel661, 1, 3);
-Position(pixel662, 2, 3);
-Position(pixel663, 3, 3);
-Position(pixel664, 4, 3);
-Position(pixel665, 5, 3);
-Position(pixel666, 6, 3);
-Position(pixel667, 7, 3);
-Position(pixel668, 8, 3);
-Position(pixel669, 9, 3);
-Position(pixel670, 10, 3);
-Position(pixel671, 11, 3);
-Position(pixel672, 12, 3);
-Position(pixel673, 13, 3);
-Position(pixel674, 14, 3);
-Position(pixel675, 15, 3);
-Position(pixel676, 16, 3);
-Position(pixel677, 17, 3);
-Position(pixel678, 18, 3);
-Position(pixel679, 19, 3);
-Position(pixel680, 20, 3);
-Position(pixel681, 21, 3);
-Position(pixel682, 22, 3);
-Position(pixel683, 23, 3);
-Position(pixel684, 24, 3);
-Position(pixel685, 25, 3);
-Position(pixel686, 26, 3);
-Position(pixel687, 27, 3);
-Position(pixel688, 28, 3);
-Position(pixel689, 29, 3);
-Position(pixel690, 30, 3);
+//row 23////////////////////////////////////////
+Position(pixel661, 1, x+3);
+Position(pixel662, 2, x+3);
+Position(pixel663, 3, x+3);
+Position(pixel664, 4, x+3);
+Position(pixel665, 5, x+3);
+Position(pixel666, 6, x+3);
+Position(pixel667, 7, x+3);
+Position(pixel668, 8, x+3);
+Position(pixel669, 9, x+3);
+Position(pixel670, 10, x+3);
+Position(pixel671, 11, x+3);
+Position(pixel672, 12, x+3);
+Position(pixel673, 13, x+3);
+Position(pixel674, 14, x+3);
+Position(pixel675, 15, x+3);
+Position(pixel676, 16, x+3);
+Position(pixel677, 17, x+3);
+Position(pixel678, 18, x+3);
+Position(pixel679, 19, x+3);
+Position(pixel680, 20, x+3);
+Position(pixel681, 21, x+3);
+Position(pixel682, 22, x+3);
+Position(pixel683, 23, x+3);
+Position(pixel684, 24, x+3);
+Position(pixel685, 25, x+3);
+Position(pixel686, 26, x+3);
+Position(pixel687, 27, x+3);
+Position(pixel688, 28, x+3);
+Position(pixel689, 29, x+3);
+Position(pixel690, 30, x+3);
 
 //row4
 Position(pixel691, 1, 4);
