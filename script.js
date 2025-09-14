@@ -6038,325 +6038,325 @@ function setup() {
   creatingPixels(pixel992);
 
   pixel1993 = new Sprite(10,10,19,19);
-  creatingPixels(pixel993);
+  creatingPixels(pixel1993);
 
   pixel1994 = new Sprite(10,10,19,19);
-  creatingPixels(pixel994);
+  creatingPixels(pixel1994);
 
   pixel1995 = new Sprite(10,10,19,19);
-  creatingPixels(pixel995);
+  creatingPixels(pixel1995);
 
   pixel1996 = new Sprite(10,10,19,19);
-  creatingPixels(pixel996);
+  creatingPixels(pixel1996);
 
   pixel1997 = new Sprite(10,10,19,19);
-  creatingPixels(pixel997);
+  creatingPixels(pixel1997);
 
   pixel1998 = new Sprite(10,10,19,19);
-  creatingPixels(pixel998);
+  creatingPixels(pixel1998);
 
   pixel1999 = new Sprite(10,10,19,19);
-  creatingPixels(pixel999);
+  creatingPixels(pixel1999);
 
   pixel2000 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1000);
+  creatingPixels(pixel2000);
 
   pixel2001 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1001);
+  creatingPixels(pixel2001);
 
   pixel2002 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1002);
+  creatingPixels(pixel2002);
 
   pixel2003 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1003);
+  creatingPixels(pixel2003);
 
   pixel2004 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1004);
+  creatingPixels(pixel2004);
 
   pixel2005 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1005);
+  creatingPixels(pixel2005);
 
   pixel2006 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1006);
+  creatingPixels(pixel2006);
 
   pixel2007 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1007);
+  creatingPixels(pixel2007);
 
   pixel2008 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1008);
+  creatingPixels(pixel2008);
 
   pixel2009 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1009);
+  creatingPixels(pixel2009);
 
   pixel2010 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1010);
+  creatingPixels(pixel2010);
   
   pixel2011 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1011);
+  creatingPixels(pixel2011);
 
   pixel2012 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1012);
+  creatingPixels(pixel2012);
 
   pixel2013 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1013);
+  creatingPixels(pixel2013);
 
   pixel2014 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1014);
+  creatingPixels(pixel2014);
 
   pixel2015 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1015);
+  creatingPixels(pixel2015);
 
   pixel2016 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1016);
+  creatingPixels(pixel2016);
 
   pixel2017 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1017);
+  creatingPixels(pixel2017);
 
   pixel2018 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1018);
+  creatingPixels(pixel2018);
 
   pixel2019 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1019);
+  creatingPixels(pixel2019);
 
   pixel2020 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1020);
+  creatingPixels(pixel2020);
 
   pixel2021 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1021);
+  creatingPixels(pixel2021);
 
   pixel2022 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1022);
+  creatingPixels(pixel2022);
 
   pixel2023 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1023);
+  creatingPixels(pixel2023);
 
   pixel2024 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1024);
+  creatingPixels(pixel2024);
 
   pixel2025 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1025);
+  creatingPixels(pixel2025);
 
   pixel2026 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1026);
+  creatingPixels(pixel2026);
 
   pixel2027 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1027);
+  creatingPixels(pixel2027);
 
   pixel2028 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1028);
+  creatingPixels(pixel2028);
 
   pixel2029 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1029);
+  creatingPixels(pixel2029);
 
   pixel2030 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1030);
+  creatingPixels(pixel2030);
 
   pixel2031 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1031);
+  creatingPixels(pixel2031);
 
   pixel2032 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1032);
+  creatingPixels(pixel2032);
 
   pixel2033 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1033);
+  creatingPixels(pixel2033);
 
   pixel2034 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1034);
+  creatingPixels(pixel2034);
 
   pixel2035 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1035);
+  creatingPixels(pixel2035);
 
   pixel2036 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1036);
+  creatingPixels(pixel2036);
 
   pixel2037 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1037);
+  creatingPixels(pixel2037);
 
   pixel2038 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1038);
+  creatingPixels(pixel2038);
 
   pixel2039 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1039);
+  creatingPixels(pixel2039);
 
   pixel2040 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1040);
+  creatingPixels(pixel2040);
   
   pixel2041 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1041);
+  creatingPixels(pixel2041);
 
   pixel2042 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1042);
+  creatingPixels(pixel2042);
 
   pixel2043 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1043);
+  creatingPixels(pixel2043);
 
   pixel2044 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1044);
+  creatingPixels(pixel2044);
 
   pixel2045 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1045);
+  creatingPixels(pixel2045);
 
   pixel2046 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1046);
+  creatingPixels(pixel2046);
 
   pixel2047 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1047);
+  creatingPixels(pixel2047);
 
   pixel2048 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1048);
+  creatingPixels(pixel2048);
 
   pixel2049 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1049);
+  creatingPixels(pixel2049);
 
   pixel2050 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1050);
+  creatingPixels(pixel2050);
 
   pixel2051 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1051);
+  creatingPixels(pixel2051);
 
   pixel2052 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1052);
+  creatingPixels(pixel2052);
 
   pixel2053 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1053);
+  creatingPixels(pixel2053);
 
   pixel2054 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1054);
+  creatingPixels(pixel2054);
 
   pixel2055 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1055);
+  creatingPixels(pixel2055);
 
   pixel2056 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1056);
+  creatingPixels(pixel2056);
 
   pixel2057 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1057);
+  creatingPixels(pixel2057);
 
   pixel2058 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1058);
+  creatingPixels(pixel2058);
 
   pixel2059 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1059);
+  creatingPixels(pixel2059);
 
   pixel2060 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1060);
+  creatingPixels(pixel2060);
 
   pixel2061 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1061);
+  creatingPixels(pixel2061);
 
   pixel2062 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1062);
+  creatingPixels(pixel2062);
 
   pixel2063 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1063);
+  creatingPixels(pixel2063);
 
   pixel2064 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1064);
+  creatingPixels(pixel2064);
 
   pixel2065 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1065);
+  creatingPixels(pixel2065);
 
   pixel2066 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1066);
+  creatingPixels(pixel2066);
 
   pixel2067 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1067);
+  creatingPixels(pixel2067);
 
   pixel2068 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1068);
+  creatingPixels(pixel2068);
 
   pixel2069 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1069);
+  creatingPixels(pixel2069);
 
   pixel2070 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1070);
+  creatingPixels(pixel2070);
   
   pixel2071 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1071);
+  creatingPixels(pixel2071);
 
   pixel2072 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1072);
+  creatingPixels(pixel2072);
 
   pixel2073 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1073);
+  creatingPixels(pixel2073);
 
   pixel2074 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1074);
+  creatingPixels(pixel2074);
 
   pixel2075 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1075);
+  creatingPixels(pixel2075);
 
   pixel2076 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1076);
+  creatingPixels(pixel2076);
 
   pixel2077 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1077);
+  creatingPixels(pixel2077);
 
   pixel2078 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1078);
+  creatingPixels(pixel2078);
 
   pixel2079 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1079);
+  creatingPixels(pixel2079);
 
   pixel2080 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1080);
+  creatingPixels(pixel2080);
 
   pixel2081 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1081);
+  creatingPixels(pixel2081);
 
   pixel2082 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1082);
+  creatingPixels(pixel2082);
 
   pixel2083 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1083);
+  creatingPixels(pixel2083);
 
   pixel2084 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1084);
+  creatingPixels(pixel2084);
 
   pixel2085 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1085);
+  creatingPixels(pixel2085);
 
   pixel2086 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1086);
+  creatingPixels(pixel2086);
 
   pixel2087 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1087);
+  creatingPixels(pixel2087);
 
   pixel2088 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1088);
+  creatingPixels(pixel2088);
 
   pixel2089 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1089);
+  creatingPixels(pixel2089);
 
   pixel2090 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1090);
+  creatingPixels(pixel2090);
 
   pixel2091 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1091);
+  creatingPixels(pixel2091);
 
   pixel2092 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1092);
+  creatingPixels(pixel2092);
 
   pixel2093 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1093);
+  creatingPixels(pixel2093);
 
   pixel2094 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1094);
+  creatingPixels(pixel2094);
 
   pixel2095 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1095);
+  creatingPixels(pixel2095);
 
   pixel2096 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1096);
+  creatingPixels(pixel2096);
 
   pixel2097 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1097);
+  creatingPixels(pixel2097);
 
   pixel2098 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1098);
+  creatingPixels(pixel2098);
 
   pixel2099 = new Sprite(10,10,19,19);
-  creatingPixels(pixel1099);
+  creatingPixels(pixel2099);
 
   pixel2100 = new Sprite(10,10,19,19);
   creatingPixels(pixel2100);
